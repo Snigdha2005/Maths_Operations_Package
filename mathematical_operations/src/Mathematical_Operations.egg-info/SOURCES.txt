@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/Mathematical_Operations.egg-info/PKG-INFO
+src/Mathematical_Operations.egg-info/SOURCES.txt
+src/Mathematical_Operations.egg-info/dependency_links.txt
+src/Mathematical_Operations.egg-info/top_level.txt
+src/mathematical_operations/mathematical_operations.py
+tests/test.py
